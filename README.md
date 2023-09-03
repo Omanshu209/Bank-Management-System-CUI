@@ -1,1 +1,1 @@
-# BankManagementSystem_CUI
+# Bank-Management-System
